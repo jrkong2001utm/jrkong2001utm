@@ -1,4 +1,4 @@
-<img src="https://github.com/jrkong2001utm/jrkong2001utm/blob/main/Screenshot%202023-03-23%20at%2012.06.14%20AM.png">
+<img src="https://github.com/jrkong2001utm/jrkong2001utm/blob/main/Screenshot%202023-03-23%20at%2012.08.28%20AM.png">
 
 I'm a 3rd year data engineering student who is passionate about digging into data to make the data more useful, informative and meaningful to help people understanding their desires and make decisions. I am proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages including Python and Java. I am also capable of creating, developing, testing and deploying a system to provide services to the organizations. 
 
