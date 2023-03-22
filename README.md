@@ -3,14 +3,13 @@
 <div id="header" align="right">
   <h1 style="font-size: 100px;"><b> Hi there, I'm Jia Rou!</b></h1>
   <h8> 
-    I'm a 3rd year data engineering student who is passionate<br>
-    about digging into data to make the data more useful,<br>
-    informative and meaningful to help people understanding<br>
-    their desires and make decisions. I am proficient in predictive 
-    modeling, data processing, and data mining algorithms,as well
-    as scripting languages including Python and Java. I am also 
-    capable of creating, developing, testing and deploying a system 
-    to provide services to the organizations. </h8>
+    I'm a 3rd year data engineering student who is passionate about<br>
+    digging into data to make the data more useful,informative and<br> 
+    meaningful to help people understanding their desires and make<br> 
+    decisions. I am proficient in predictive modeling, data processing,<br>
+    and data mining algorithms,as well as scripting languages including<br> 
+    Python and Java. I am also capable of creating, developing, testing<br>
+    and deploying a system to provide services to the organizations. </h8>
 </div>
 <br>
 <br>
