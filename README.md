@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jia Rou 👋 👩🏻‍💻
 
 <!--
 **jrkong2001utm/jrkong2001utm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 3rd year data engineering student who is passionate about digging into data to make the data more useful, informative and meaningful to help people understanding their desires and make decisions. I am proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages including Python and Java. I am also capable of creating, developing, testing and deploying a system to provide services to the organizations. 
