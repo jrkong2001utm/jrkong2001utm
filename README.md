@@ -14,14 +14,18 @@
 <br>
 
 ### 🏅 Achievements :
-- ✈️ Flight Delays and Cancellations at 2015
+- ✈️ Flight Delays and Cancellations at 2015<br>
 (https://github.com/drshahizan/Python-big-data/tree/main/Assignment%201/potato)
-- 🔎 Comparison between Pandas and Vaex
+
+- 🔎 Comparison between Pandas and Vaex<br>
 (https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202a/BigMac)
-- 🩺 Health Insurance Marketplace
+
+- 🩺 Health Insurance Marketplace<br>
 (https://github.com/drshahizan/Python-big-data/tree/main/Assignment%202b/BigMac)
-- ✈️ Airline Delay and Cancellation Data(2016 - 2018.csv)
+
+- ✈️ Airline Delay and Cancellation Data(2016 - 2018.csv)<br>
 (https://github.com/drshahizan/Python-big-data/tree/main/Project/BigMac)
+
 - 📊 Death by state, sex and age group Malaysia 2001-2018
 (https://github.com/drshahizan/Python_EDA/tree/main/Malaysia%20EDA/Potato)
 
