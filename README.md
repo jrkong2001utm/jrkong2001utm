@@ -13,6 +13,16 @@
 <br>
 <br>
 
+### :woman_technologist: About Me :
+- 📆 27/09/2001
+- 👯 I’m currently study at University Technology Malaysia
+- 🌱 I’m currently working on application development
+- ⚡ In my free time, I like to play piano.
+- 💬 Ask me anything that you are interested about me
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jrkong27-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%20jrkong27) <a href="mailto:mikokong010927@gmail.com"><img src="https://img.shields.io/badge/mikokong010927@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
+
+<br>
+
 ### 🏅 Achievements :
 - ✈️ Flight Delays and Cancellations at 2015<br>
 (https://github.com/drshahizan/Python-big-data/tree/main/Assignment%201/potato)
